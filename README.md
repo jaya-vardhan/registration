@@ -1,7 +1,7 @@
 
 Development Setup:
 Clone the repository.
-Go into the project directory.
+Go into the project directory i,e, userregistration.
 run command: npm i (if needed).
 run command: ng serve
 
